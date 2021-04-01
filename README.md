@@ -10,6 +10,8 @@ Openings I am actively looking right now:
 
 * Reactjs/Nodejs Devs with +3 years of xp from any part of the world, to work with companies from the US, Canada and Argentina, in direct relation with the companies, or as a contractor. 
 
+* Java Devs +5 years of experience, from Bs As, to work in IPSY, a company from the US, part of BFA Industries.
+
 * Java/Angular Devs with +3 years of xp from Argentina to work in direct relation with a multinational company. 
 
 
